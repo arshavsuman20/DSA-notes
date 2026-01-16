@@ -40,4 +40,5 @@ IV. Stacks -
 
 1) Valid Parantheses - <https://leetcode.com/problems/valid-parentheses/description/>
 2) Min Stack - <https://leetcode.com/problems/min-stack/description/>
+3) Evaluate Reverse Polish Notation - <https://leetcode.com/problems/evaluate-reverse-polish-notation/description/>
 
