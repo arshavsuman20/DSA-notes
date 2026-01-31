@@ -43,3 +43,4 @@ IV. Stacks -
 3) Evaluate Reverse Polish Notation - <https://leetcode.com/problems/evaluate-reverse-polish-notation/description/>
 4) Daily Temperatures - <https://leetcode.com/problems/daily-temperatures/>
 5) Car Fleet - <https://leetcode.com/problems/car-fleet/description/>
+6) Largest Rectangle in Histogram - <https://leetcode.com/problems/largest-rectangle-in-histogram/description/>
