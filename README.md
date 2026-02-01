@@ -45,6 +45,6 @@ IV. Stacks -
 5) Car Fleet - <https://leetcode.com/problems/car-fleet/description/>
 6) Largest Rectangle in Histogram - <https://leetcode.com/problems/largest-rectangle-in-histogram/description/>
 
-V. Binary Seach -
+V. Binary Search -
 
 1) Binary Search - <https://leetcode.com/problems/binary-search/description/>
